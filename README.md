@@ -1,5 +1,9 @@
 # Write-About-It-App
 
+## Overview
+### Description
+Wrtie down your notes, journal entries, and post pictures that will be stored to look back on. Capable of marking favorite entries based on user input.
+
 # Tools:
 - Parse
 
