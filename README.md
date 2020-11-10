@@ -21,15 +21,15 @@ Write down your notes, journal entries, and post pictures that will be stored to
 # Schema <br>
 
 ## Models
-# Post
+## Post
 | Property      | Type          | Description                     |
 | ------------- | ------------- | ------------------------------- |
 | content       | String        | content of notes                |
 | image         | File          | image that user posts for cover |
 | createdAt     | DateTime      | date when note was created      |
 
-# Networking
-# List of netowrk requests by screen
+## Networking
+### List of netowrk requests by screen
 - Home Journal Screen
  - (Read/GET) Query all notes created by author
 - Create Note Screen
