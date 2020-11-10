@@ -20,7 +20,7 @@ Write down your notes, journal entries, and post pictures that will be stored to
 
 # Schema <br>
 
-**Models**
+## Models <br>
 **Post**
 | Property      | Type          | Description                     |
 | ------------- | ------------- | ------------------------------- |
@@ -29,7 +29,7 @@ Write down your notes, journal entries, and post pictures that will be stored to
 | createdAt     | DateTime      | date when note was created      |
 
 ## Networking
-### List of netowrk requests by screen
+*List of netowrk requests by screen**
 - Home Journal Screen
  - (Read/GET) Query all notes created by author
 - Create Note Screen
