@@ -20,8 +20,8 @@ Write down your notes, journal entries, and post pictures that will be stored to
 
 # Schema <br>
 
-** Models **
-** Post **
+**Models**
+**Post**
 | Property      | Type          | Description                     |
 | ------------- | ------------- | ------------------------------- |
 | content       | String        | content of notes                |
