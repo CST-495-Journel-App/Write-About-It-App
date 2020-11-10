@@ -31,8 +31,8 @@ Write down your notes, journal entries, and post pictures that will be stored to
 ## Networking
 **List of nework requests by screen**
 - Home Journal Screen
- - (Read/GET) Query all notes created by author
+  - (Read/GET) Query all notes created by author
 - Create Note Screen
- - (Create/Post) Create a new note
+   - (Create/Post) Create a new note
 - Note details screen
- - (Read/Get) Note content
+   - (Read/Get) Note content
