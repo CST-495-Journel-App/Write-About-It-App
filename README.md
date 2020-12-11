@@ -18,7 +18,7 @@ Write down your notes, journal entries, and post pictures that will be stored to
 <img src="https://user-images.githubusercontent.com/44785026/98054481-e61d4800-1def-11eb-8758-76e92e9c53c4.gif" width=250>
 
 ## Progress
-<img src="http://g.recordit.co/KfQVJga9bX.gif" width=300><br>
+<img src="http://g.recordit.co/0nvNQrej3G.gif" width=300><br>
 
 
 # Schema <br>
