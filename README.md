@@ -28,6 +28,7 @@ Write down your notes, journal entries, and post pictures that will be stored to
 | Property      | Type          | Description                     |
 | ------------- | ------------- | ------------------------------- |
 | content       | String        | content of notes                |
+| title         | String        | title of notes                  |
 | image         | File          | image that user posts for cover |
 | createdAt     | DateTime      | date when note was created      |
 
